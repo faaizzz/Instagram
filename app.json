@@ -1,0 +1,11 @@
+{
+  "expo": {
+   "name": "FzInstagram",
+   "icon" : "./assets/my-icon.png",
+   "version": "1.0.0",
+   "sdkVersion": "25.0.0",
+   "android": {
+     "package": "com.jagratha.FzInstagram"
+   }
+  }
+}
